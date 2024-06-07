@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/eaibot/UAV_rotors/devel/.private/mav_system_msgs/setup.sh

@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/eaibot/UAV_rotors/devel/.private/rotors_control/lib;/opt/ros/kinetic/lib")

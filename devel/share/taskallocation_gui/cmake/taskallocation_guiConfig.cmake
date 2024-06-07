@@ -1,0 +1,1 @@
+/home/eaibot/UAV_rotors/devel/.private/taskallocation_gui/share/taskallocation_gui/cmake/taskallocation_guiConfig.cmake

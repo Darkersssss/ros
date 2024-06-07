@@ -1,0 +1,6 @@
+control_terminal
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/cmake.lock /home/eaibot/UAV_rotors/devel/./cmake.lock
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/share/control_terminal/cmake/control_terminalConfig-version.cmake /home/eaibot/UAV_rotors/devel/share/control_terminal/cmake/control_terminalConfig-version.cmake
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/share/control_terminal/cmake/control_terminalConfig.cmake /home/eaibot/UAV_rotors/devel/share/control_terminal/cmake/control_terminalConfig.cmake
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/lib/pkgconfig/control_terminal.pc /home/eaibot/UAV_rotors/devel/lib/pkgconfig/control_terminal.pc
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/lib/control_terminal/control_terminal /home/eaibot/UAV_rotors/devel/lib/control_terminal/control_terminal

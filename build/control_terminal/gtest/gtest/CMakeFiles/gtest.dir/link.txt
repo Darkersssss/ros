@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/eaibot/UAV_rotors/build/control_terminal/gtest/gtest/src -lpthread -Wl,-rpath,/home/eaibot/UAV_rotors/build/control_terminal/gtest/gtest/src 

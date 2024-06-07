@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target control_terminal[0m
+[  9%] [32mBuilding CXX object CMakeFiles/control_terminal.dir/src/main.cpp.o[0m
+[ 18%] [32m[1mLinking CXX executable /home/eaibot/UAV_rotors/devel/.private/control_terminal/lib/control_terminal/control_terminal[0m
+[100%] Built target control_terminal

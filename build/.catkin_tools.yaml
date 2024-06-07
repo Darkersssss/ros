@@ -1,0 +1,6 @@
+devel_space: /home/eaibot/UAV_rotors/devel
+install: false
+install_space: /home/eaibot/UAV_rotors/install
+profile: default
+source_space: /home/eaibot/UAV_rotors/src
+workspace: /home/eaibot/UAV_rotors

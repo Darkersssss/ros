@@ -1,0 +1,1 @@
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/lib/pkgconfig/control_terminal.pc

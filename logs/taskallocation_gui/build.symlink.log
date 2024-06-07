@@ -1,0 +1,4 @@
+Symlinking /home/eaibot/UAV_rotors/devel/share/taskallocation_gui/cmake/taskallocation_guiConfig.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/share/taskallocation_gui/cmake/taskallocation_guiConfig-version.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/lib/pkgconfig/taskallocation_gui.pc
+Symlinking /home/eaibot/UAV_rotors/devel/lib/taskallocation_gui/taskallocation_gui

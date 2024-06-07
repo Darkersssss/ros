@@ -1,0 +1,4 @@
+Symlinking /home/eaibot/UAV_rotors/devel/share/control_terminal/cmake/control_terminalConfig-version.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/share/control_terminal/cmake/control_terminalConfig.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/lib/pkgconfig/control_terminal.pc
+Symlinking /home/eaibot/UAV_rotors/devel/lib/control_terminal/control_terminal

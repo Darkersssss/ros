@@ -1,0 +1,9 @@
+rotors_simulator/rotors_gazebo
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/cmake.lock /home/eaibot/UAV_rotors/devel/./cmake.lock
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake /home/eaibot/UAV_rotors/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake /home/eaibot/UAV_rotors/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example /home/eaibot/UAV_rotors/devel/lib/rotors_gazebo/hovering_example
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file /home/eaibot/UAV_rotors/devel/lib/rotors_gazebo/waypoint_publisher_file
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher /home/eaibot/UAV_rotors/devel/lib/rotors_gazebo/waypoint_publisher
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/lib/rotors_gazebo/UAV1 /home/eaibot/UAV_rotors/devel/lib/rotors_gazebo/UAV1
+/home/eaibot/UAV_rotors/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc /home/eaibot/UAV_rotors/devel/lib/pkgconfig/rotors_gazebo.pc

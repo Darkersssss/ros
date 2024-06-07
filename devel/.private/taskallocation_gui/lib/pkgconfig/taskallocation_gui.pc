@@ -1,0 +1,8 @@
+prefix=/home/eaibot/UAV_rotors/devel/.private/taskallocation_gui
+
+Name: taskallocation_gui
+Description: Description of taskallocation_gui
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

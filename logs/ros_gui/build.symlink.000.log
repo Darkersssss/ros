@@ -1,0 +1,4 @@
+Symlinking /home/eaibot/UAV_rotors/devel/share/ros_gui/cmake/ros_guiConfig.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/share/ros_gui/cmake/ros_guiConfig-version.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/lib/pkgconfig/ros_gui.pc
+Symlinking /home/eaibot/UAV_rotors/devel/lib/ros_gui/ros_gui

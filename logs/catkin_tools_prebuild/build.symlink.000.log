@@ -1,0 +1,12 @@
+Symlinking /home/eaibot/UAV_rotors/devel/./_setup_util.py
+Symlinking /home/eaibot/UAV_rotors/devel/./env.sh
+Symlinking /home/eaibot/UAV_rotors/devel/./setup.sh
+Symlinking /home/eaibot/UAV_rotors/devel/./local_setup.zsh
+Symlinking /home/eaibot/UAV_rotors/devel/./setup.bash
+Symlinking /home/eaibot/UAV_rotors/devel/./cmake.lock
+Symlinking /home/eaibot/UAV_rotors/devel/./local_setup.sh
+Symlinking /home/eaibot/UAV_rotors/devel/./setup.zsh
+Symlinking /home/eaibot/UAV_rotors/devel/./local_setup.bash
+Symlinking /home/eaibot/UAV_rotors/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/eaibot/UAV_rotors/devel/lib/pkgconfig/catkin_tools_prebuild.pc

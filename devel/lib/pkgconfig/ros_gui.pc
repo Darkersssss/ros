@@ -1,0 +1,1 @@
+/home/eaibot/UAV_rotors/devel/.private/ros_gui/lib/pkgconfig/ros_gui.pc

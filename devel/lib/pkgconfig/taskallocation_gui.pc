@@ -1,0 +1,1 @@
+/home/eaibot/UAV_rotors/devel/.private/taskallocation_gui/lib/pkgconfig/taskallocation_gui.pc

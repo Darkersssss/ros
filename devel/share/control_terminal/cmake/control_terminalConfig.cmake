@@ -1,0 +1,1 @@
+/home/eaibot/UAV_rotors/devel/.private/control_terminal/share/control_terminal/cmake/control_terminalConfig.cmake
